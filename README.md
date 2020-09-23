@@ -1,74 +1,12 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Ankita</h1>
+<h3 align="center">A passionate developer and open source enthusiast</h3>
 
-<!--
-**AnkitaPuri2001/AnkitaPuri2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitapuri2001" alt="ankitapuri2001" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitapuri2001&layout=compact" alt="ankitapuri2001" /></p>
 
-| color  | demo |
-<br>
-| -------------- | ---------- |	
-<br>
-| `brightgreen` |     ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=44cc11) |       <br>
-| `green`       |     ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=97ca00) |	<br>
-| `yellow`      |     ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=dfb317) |	<br>
-| `yellowgreen` |     ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=a4a61d) |	<br>
-| `orange`      |     ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=fe7d37) |	<br>
-| `red`         |     ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=e05d44) |	<br>
-| `blue`        |     ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=007ec6) |	<br>
-| `grey`        |     ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=555555) |	<br>
-| `lightgray`   |     ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=9f9f9f) |	<br>
-| `blueviolet`  |     ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=blueviolet)|<br> 
-| `ff69b4`      |     ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=ff69b4) |	<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitapuri2001&show_icons=true" alt="ankitapuri2001" /></p>
 
-### Color
 
-You can use any valid HEX color or pick from a predefined set of named colors (`blue` is the default).
-
-| color | demo |
-| ----- | ---- |
-| `brightgreen` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=brightgreen) |
-| `green` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=green) |
-| `yellow` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=yellow) |
-| `yellowgreen` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=yellowgreen) |
-| `orange` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=orange) |
-| `red` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=red) |
-| `blue` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=blue) |
-| `grey` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=grey) |
-| `lightgrey` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=lightgrey) |
-| `blueviolet` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=blueviolet) |
-| `ff69b4` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=ff69b4) |
-
-**Named color**
-
-```markdown
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
-```
-
-**Hex color**
-
-```markdown
-![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
-```
-
-> **NOTE**: HEX colors should be used without `#` symbol prefix.
-
-### Styles
-
-The following styles are available (`flat` is the default).
-
-| style | demo |
-| ----- | ---- |
-| `flat` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=007ec6&style=flat) |
-| `flat-square` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=007ec6&style=flat-square) |
-| `plastic` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=007ec6&style=plastic) |
